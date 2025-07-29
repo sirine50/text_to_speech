@@ -1,4 +1,4 @@
-# text_to_speecj
+# text_to_speech
 App name: “Text-to-Speech Python App”
 
 Short description: A fun project that uses pyttsx3 to turn text into speech.
