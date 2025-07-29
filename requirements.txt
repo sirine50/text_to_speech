@@ -1,0 +1,2 @@
+pyttsx3: for the text to speech feautures
+tkinter: it's installed when you install python and it's for the UI
